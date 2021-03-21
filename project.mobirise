@@ -2088,10 +2088,12 @@
               "background": "#1b1b1b"
             },
             ".mbr-slider .carousel-control-prev": {
+            display:none;
               "left": "0",
               "margin-left": "2.5rem"
             },
             ".mbr-slider .carousel-control-next": {
+            display:none;
               "right": "0",
               "margin-right": "2.5rem"
             },
