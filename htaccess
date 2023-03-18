@@ -1,2 +1,1 @@
-RewriteCond %{REQUEST_URI} ^http://designikolas.ru/$
-RewriteRule ^.*$ http://designikolas.ru/index.ru.html/? [R=301,L]
+Redirect / http://designikolas.ru/index.ru.html
