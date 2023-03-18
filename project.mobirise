@@ -5579,7 +5579,7 @@
       "settings": {
         "main": true,
         "title": "Designikolas | Дизайн интерьера квартир и домов в Сочи",
-        "meta_descr": "Разработка и реализация дизайн-проектов квартир и загородных домов. 3д визуализация, технические чертежи, авторское сопровождение и комплектация в рамках бюджета",
+        "meta_descr": "Разработка и реализация дизайн-проекта интерьера квартир и загородных домов от 800 руб/м.кв. 3д визуализация, технические чертежи, авторское сопровождение и комплектация в рамках бюджета. Реализация интерьера мечты, воплощенного в деталях. Успешный опыт более 15 лет.\nТел. +79282945345",
         "header_custom": "",
         "footer_custom": "",
         "html_before": ""
@@ -6275,7 +6275,7 @@
             "slides": [
               {
                 "image": "@PROJECT_PATH@/assets/images/544.12-2000x2000.jpg",
-                "active": false,
+                "active": true,
                 "showButtons": false,
                 "showText": false,
                 "showTitle": false,
@@ -6332,7 +6332,7 @@
               },
               {
                 "image": "@PROJECT_PATH@/assets/images/3.1.5-2000x1692.jpeg",
-                "active": true,
+                "active": false,
                 "showButtons": false,
                 "showText": false,
                 "showTitle": false,
