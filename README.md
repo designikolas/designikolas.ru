@@ -1,4 +1,4 @@
-designikolas.ru/index.ru.html
+#designikolas.ru
 
 Разработка и реализация дизайн-проектов квартир и домов в Сочи
 
