@@ -1,2 +1,2 @@
 RewriteEngine On
-RewriteRule ^index.ru.html$ / [R=301,L]
+RewriteRule ^designikolas.ru/index.ru.html$ / [R=301,L]
