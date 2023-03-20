@@ -1,6 +1,2 @@
-User-agent: Yandex 
-Allow: /
-Disallow: /
-# все разрешается
-
-
+User-agent: Yandex
+Disallow: /cgi-bin
