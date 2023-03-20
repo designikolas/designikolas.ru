@@ -1,4 +1,6 @@
-User-agent: YandexBot
-Disallow: 
+User-agent: Yandex 
+Allow: /
+Disallow: /
+# все разрешается
 
 
