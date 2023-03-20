@@ -1,2 +1,3 @@
-RewriteEngine On
-RewriteRule ^index\.html$ / [R=301,L]
+RewriteCond %{HTTP_HOST} ^designikolas.ru [NC,OR]
+RewriteCond %{HTTP_HOST} ^www.designikolas.ru [NC]
+RewriteRule ^(.*)$ https://designikolas.ru/index.ru.html//$1 [L,R=301,NC]
