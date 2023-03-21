@@ -1,4 +1,17 @@
-designikolas.ru
+### [__ANDREY NIKOLAENKO__ interior design | Дизайн интерьера квартир и домов в Сочи и Краснодаре](https://designikolas.ru/index.ru)
 
-Разработка и реализация дизайн-проектов квартир и домов в Сочи
+[__designikolas.ru__](https://designikolas.ru/index.ru)
 
+© 2006-2023 Андрей Николаенко- дизайнер интерьера
+
++79282945345
+
+### [Портфолио](https://designikolas.ru/portfolio)
+
+3Д визуализация выполненных дизайн-проектов
+
+### [Контакты](https://designikolas.ru/kontakty)
+
+### [Пакеты услуг/цена](https://designikolas.ru/price)
+
+Варианты пакетов услуг и стоимость работ
