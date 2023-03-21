@@ -56,7 +56,7 @@
     "robotsSwitcher": false,
     "sitemapSwitcherAuto": false,
     "sitemapSwitcher": true,
-    "imageResize": false,
+    "imageResize": true,
     "witsec-white-label": true,
     "cookiesAlert": false,
     "gdpr": false
