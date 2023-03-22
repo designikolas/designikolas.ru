@@ -1,2 +1,2 @@
-User-agent: YandexBot
-Disallow: /cgi-bin
+User-Agent: *
+Allow: /
