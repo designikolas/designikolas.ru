@@ -1,1 +1,2 @@
-Redirect 301 / https://designikolas.ru/index.ru
+RewriteCond %{THE_REQUEST} ^[A-Z]{3,9}\ /index.ru\.html\ HTTP/
+RewriteRule ^index.ru\.html$ https:// designikolas.ru [R=301,L]
