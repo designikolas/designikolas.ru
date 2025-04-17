@@ -1,4 +1,4 @@
-### [__ANDREY NIKOLAENKO__ interior design | Дизайн интерьера квартир и домов в Сочи и Краснодаре](https://designikolas.ru/index.ru)
+### [__ANDREY NIKOLAENKO__ interior design | Создавая пространство, мы формируем атмосферу и образ жизни](https://designikolas.ru/index.ru)
 
 [__designikolas.ru__](https://designikolas.ru/index.ru)
 
@@ -12,6 +12,6 @@
 
 ### [Контакты](https://designikolas.ru/kontakty)
 
-### [Пакеты услуг/цена](https://designikolas.ru/price)
+### [Пакеты услуг](https://designikolas.ru/price)
 
-Варианты пакетов услуг и стоимость работ
+Варианты пакетов услуг
